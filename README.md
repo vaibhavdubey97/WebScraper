@@ -6,8 +6,7 @@ We'd like you to write a simple web crawler in a programming language you're fam
 * python 3.x
 * virtualenv 1.11.4
 * nose 1.3.7
-* requests
-* bs4 
+* requests 2.25.0
 * futures 3.3.0
 * beautifulsoup4 4.9.3
 
