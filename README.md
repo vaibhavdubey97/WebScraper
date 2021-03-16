@@ -17,9 +17,10 @@ We'd like you to write a simple web crawler in a programming language you're fam
 * Run Application: python src/main.py --url [URL] --max_threads [MAX THREADS]
 * Run Tests:
     - python test/sample_server/main.py
-    - nosetests
+    - pip install virtualenv; pip install nose; nosetests
 
-Note: Set up Test Server to execute unit tests.
+Note: Set up Sample Server by running the script in test/sample_server
+      to execute unit tests.
 ```
 # Test Coverage Report
 Path: htmlcov/index.html
